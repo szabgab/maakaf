@@ -21,4 +21,6 @@ Some of its members have web site and some of those are on GitHub pages. This is
 
 * [GitHub pages documentation](https://docs.github.com/en/pages)
 * [Slides on GitHub Pages](https://git.code-maven.com/github-pages/)
+
 * [יצירת אתר וואב על דפי גיטהאב ללא תכנות](https://git-he.code-maven.com/creating-a-website-on-github-pages-using-markdown)
+* See also the sites of the [Python course students in the Weizmann Institute](https://github.com/code-Maven/wis-python-course-2025-10)
