@@ -9,3 +9,4 @@ Some of its members have web site and some of those are on GitHub pages. This is
 | [Liran Tal ](https://lirantal.com/)         | 🌐 | [gh](https://github.com/lirantal)      |
 | [David Meir-Levy](https://davidlevy.co.il/) | 🌐 | [gh](https://github.com/davidmeirlevy) |
 | [Israel Fruchter](https://fruch.github.io/) | ✅ | [gh](https://github.com/fruch)         |
+| [Uriel Ofir](https://urielofir.website/)    | 🌐 | [gh](https://github.com/UrielOfir)     |
