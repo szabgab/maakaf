@@ -15,6 +15,7 @@ Some of its members have web site and some of those are on GitHub pages. This is
 | [Israel Fruchter](https://fruch.github.io/) | ✅ | [gh](https://github.com/fruch)         |
 | [Uriel Ofir](https://urielofir.website/)    | 🌐 | [gh](https://github.com/UrielOfir)     |
 | [Noam Gaash](https://noam-gaash.co.il/)     | 🌐 | [gh](https://github.com/NoamGaash)     |
+| [Gabor Szabo](https://github.szabgab.com/)  | ✅ | [gh](https://github.com/szabgab/)      |
 
 
 ## How to create a site on GitHub Pages
